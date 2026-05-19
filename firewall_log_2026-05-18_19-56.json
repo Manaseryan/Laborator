@@ -1,0 +1,754 @@
+{
+    "open_ports": [
+        {
+            "port": 60758,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 3702,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 68,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5353,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5353,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 2177,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 60232,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 19206,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5353,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5353,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 25502,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 12463,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 44960,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 2179,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 138,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5432,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 49679,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 64200,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 60682,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 7729,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 55460,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 500,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 139,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 60239,
+            "protocol": "TCP/UDP",
+            "status": "TIME_WAIT"
+        },
+        {
+            "port": 41641,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49681,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 63076,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 60339,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 137,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 40201,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 61798,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 63100,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 65460,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5040,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 60758,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 2179,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 64126,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49201,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 60819,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 2177,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 2177,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5355,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5357,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 25513,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 49201,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 139,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 60818,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49765,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 41641,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49765,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 6494,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 137,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 63069,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 54855,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 26651,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 500,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 10433,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 9889,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 49669,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 445,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 64200,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5432,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 63073,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49008,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 49678,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 63068,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 64127,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 2177,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 63078,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 137,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 2177,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 63070,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 138,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49418,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5050,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 123,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 138,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 63067,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 63072,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 2177,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 135,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 2177,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 64125,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 63074,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49673,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 63075,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 2177,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 4500,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 139,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 49665,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 55460,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49683,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 60339,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 139,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 24830,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 135,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 49664,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 31321,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 2177,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 42050,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49666,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 49682,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 137,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49665,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 49664,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 4500,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49666,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 63100,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 123,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 2177,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 60682,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49670,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 7729,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 67,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 445,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 49670,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49682,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 5275,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 1900,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49110,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 49669,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 44950,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        },
+        {
+            "port": 1686,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 53,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49680,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 65460,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 138,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 49684,
+            "protocol": "TCP/UDP",
+            "status": "ESTABLISHED"
+        },
+        {
+            "port": 5355,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 63071,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 3702,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 63077,
+            "protocol": "TCP/UDP",
+            "status": "NONE"
+        },
+        {
+            "port": 5357,
+            "protocol": "TCP/UDP",
+            "status": "LISTEN"
+        }
+    ],
+    "heavy_ports": [
+        [
+            1900,
+            60
+        ],
+        [
+            2177,
+            50
+        ],
+        [
+            5353,
+            20
+        ],
+        [
+            138,
+            20
+        ],
+        [
+            139,
+            20
+        ]
+    ],
+    "rules": {
+        "blocked_in": [
+            80
+        ],
+        "blocked_out": [
+            22
+        ]
+    }
+}
